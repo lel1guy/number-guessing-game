@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-**freeCodeCamp Relational Database Certification** — Project
+**freeCodeCamp Relational Database Certification** — Project #5
 
 A Bash-based number guessing game with PostgreSQL. Users enter a username, guess a randomly generated number between 1 and 1000, and receive feedback on each guess.
 
